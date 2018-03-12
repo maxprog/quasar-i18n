@@ -1,3 +1,3 @@
-# Quasar App
+# Quasar App and i18n
 
-> WIP
+> Solved internationalization, location and translation problem
